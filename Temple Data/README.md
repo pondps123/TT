@@ -1,5 +1,3 @@
-# Theory-Computing-Project
-
 ### วิธีติดตั้ง Library
 
 ```
